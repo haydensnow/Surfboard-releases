@@ -1,5 +1,3 @@
-# Temporary Fire TV app downloads
+# Empty branch
 
-Unrelated to Surfboard. Safe to delete this branch.
-
-- `sa.apk`: Silent Ambience nightlight v1.0
+Safe to delete.
